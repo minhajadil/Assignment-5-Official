@@ -24,7 +24,7 @@ DEBUG = True
 ALLOWED_HOSTS = ["*"]
 # ALLOWED_HOSTS = ["book-shop-m3h9.onrender.com", "www.book-shop-m3h9.onrender.com"]
 
-CSRF_TRUSTED_ORIGINS = ['https://book-shop-m3h9.onrender.com','https://*.127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ['https://book-shop-wa65.onrender.com','https://*.127.0.0.1']
 
 
 # Application definition
