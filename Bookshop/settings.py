@@ -15,12 +15,12 @@ environ.Env.read_env()
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-vo4oei%a4#$yq$hi%1au1u+1h6bilrg2&_$tpq5uyttq!^a@q+'
+SECRET_KEY = env("SECRET_KEY")
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ['*']
 CSRF_TRUSTED_ORIGINS = ['https://book-shop-m3h9.onrender.com','https://*.127.0.0.1']
 
 
