@@ -14,6 +14,7 @@ A Book Shop project, primarily focused on the backend and implemented with the D
 - Dedicated wallet for all users.
 - The ability to borrow books with the deposited funds and return them to the library for a refund.
 - Giving a review after borrowing a specific book.
+- Bookswapping history of every individual can be checked from profile section.
 - Email notification for each deposit and book borrow.
 
 
