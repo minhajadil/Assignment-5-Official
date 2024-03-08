@@ -5,6 +5,11 @@ Library project is a library management project, primarily focused on the backen
 
 [Live Link](https://book-shop-wa65.onrender.com/)
 
+### Special Requests
+
+- Please wait while it loads the full page. It takes time to activate the hosting as the developer is using a free deployment package. 
+- Please use a PC to render the website because it is not yet responsive (The developer is too lazy) 
+- Thanks for your patience !  
 
 
 ## Features.
