@@ -3,7 +3,7 @@
 
 A Book Shop project, primarily focused on the backend and implemented with the Django Web Framework, with a specific user system in which each individual has their own wallet to deposit money in, which can then be used to borrow books and receive some money back when they return the books. 
 
-
+[Live Link](https://book-shop-wa65.onrender.com/)
 
 
 
@@ -17,9 +17,7 @@ A Book Shop project, primarily focused on the backend and implemented with the D
 - Email notification for each deposit and book borrow.
 
 
-## Demo
 
-[Live Link](https://book-shop-wa65.onrender.com/)
 
 
 ## Tech Stack
